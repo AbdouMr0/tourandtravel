@@ -1,0 +1,14 @@
+.about-container{
+    margin: 5rem 6rem;
+    text-align: 1rem;
+}
+.about-container p{
+    padding: 1.5rem 0rem;
+
+}
+@media screen and (max-widt:850px) {
+    .about-container{
+        margin: 4rem 2rem;
+    }
+    
+}
